@@ -21,6 +21,6 @@ Data, code, and reproducible workflows using Git associated with our research pr
 
 Resources for learning R, ecological data analysis, and reproducible research.
 
-- ***[Open Science in R - CHS 2026 Workshop](https://github.com/julia-riley/CHS2026-Workshop-OpenScienceinR)***: Workshop materials and resources on open science workflows in R co-developed with Elizabeth Stregger and Christelinda Laurejis. 
+- **[Open Science in R - CHS 2026 Workshop](https://github.com/julia-riley/CHS2026-Workshop-OpenScienceinR)**: Workshop materials and resources on open science workflows in R co-developed with Elizabeth Stregger and Christelinda Laurejis. 
 
 
