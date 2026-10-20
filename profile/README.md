@@ -8,7 +8,7 @@ Learn more about our research and team at the [RBG Labs Website](https://www.rbg
 
 R packages and reusable software developed by lab members.
 
-- **[bodycon](https://github.com/RBGLabs/bodycon))** | [Archived Zenodo release](https://zenodo.org/records/23066175) — An R package for estimating animal body condition in ecological research.
+- **[bodycon](https://github.com/RBGLabs/bodycon)** | [Archived Zenodo release](https://zenodo.org/records/23066175) — An R package for estimating animal body condition in ecological research.
 
 ## Research Projects
 
